@@ -1,0 +1,12 @@
+C:\Users\uuu\Desktop\DA2-REPO\DelArca-Sotto\BetterCalm\BetterCalm.DataAccess\bin\Debug\netcoreapp3.1\BetterCalm.DataAccess.deps.json
+C:\Users\uuu\Desktop\DA2-REPO\DelArca-Sotto\BetterCalm\BetterCalm.DataAccess\bin\Debug\netcoreapp3.1\BetterCalm.DataAccess.dll
+C:\Users\uuu\Desktop\DA2-REPO\DelArca-Sotto\BetterCalm\BetterCalm.DataAccess\bin\Debug\netcoreapp3.1\BetterCalm.DataAccess.pdb
+C:\Users\uuu\Desktop\DA2-REPO\DelArca-Sotto\BetterCalm\BetterCalm.DataAccess\bin\Debug\netcoreapp3.1\BetterCalm.Domain.dll
+C:\Users\uuu\Desktop\DA2-REPO\DelArca-Sotto\BetterCalm\BetterCalm.DataAccess\bin\Debug\netcoreapp3.1\BetterCalm.Domain.pdb
+C:\Users\uuu\Desktop\DA2-REPO\DelArca-Sotto\BetterCalm\BetterCalm.DataAccess\obj\Debug\netcoreapp3.1\BetterCalm.DataAccess.csprojAssemblyReference.cache
+C:\Users\uuu\Desktop\DA2-REPO\DelArca-Sotto\BetterCalm\BetterCalm.DataAccess\obj\Debug\netcoreapp3.1\BetterCalm.DataAccess.AssemblyInfoInputs.cache
+C:\Users\uuu\Desktop\DA2-REPO\DelArca-Sotto\BetterCalm\BetterCalm.DataAccess\obj\Debug\netcoreapp3.1\BetterCalm.DataAccess.AssemblyInfo.cs
+C:\Users\uuu\Desktop\DA2-REPO\DelArca-Sotto\BetterCalm\BetterCalm.DataAccess\obj\Debug\netcoreapp3.1\BetterCalm.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\uuu\Desktop\DA2-REPO\DelArca-Sotto\BetterCalm\BetterCalm.DataAccess\obj\Debug\netcoreapp3.1\BetterCalm.DataAccess.csproj.CopyComplete
+C:\Users\uuu\Desktop\DA2-REPO\DelArca-Sotto\BetterCalm\BetterCalm.DataAccess\obj\Debug\netcoreapp3.1\BetterCalm.DataAccess.dll
+C:\Users\uuu\Desktop\DA2-REPO\DelArca-Sotto\BetterCalm\BetterCalm.DataAccess\obj\Debug\netcoreapp3.1\BetterCalm.DataAccess.pdb

@@ -1,0 +1,9 @@
+C:\Users\uuu\Desktop\DA2-REPO\DelArca-Sotto\BetterCalm\BetterCalm.Domain\bin\Debug\netcoreapp3.1\BetterCalm.Domain.deps.json
+C:\Users\uuu\Desktop\DA2-REPO\DelArca-Sotto\BetterCalm\BetterCalm.Domain\bin\Debug\netcoreapp3.1\BetterCalm.Domain.dll
+C:\Users\uuu\Desktop\DA2-REPO\DelArca-Sotto\BetterCalm\BetterCalm.Domain\bin\Debug\netcoreapp3.1\BetterCalm.Domain.pdb
+C:\Users\uuu\Desktop\DA2-REPO\DelArca-Sotto\BetterCalm\BetterCalm.Domain\obj\Debug\netcoreapp3.1\BetterCalm.Domain.AssemblyInfoInputs.cache
+C:\Users\uuu\Desktop\DA2-REPO\DelArca-Sotto\BetterCalm\BetterCalm.Domain\obj\Debug\netcoreapp3.1\BetterCalm.Domain.AssemblyInfo.cs
+C:\Users\uuu\Desktop\DA2-REPO\DelArca-Sotto\BetterCalm\BetterCalm.Domain\obj\Debug\netcoreapp3.1\BetterCalm.Domain.csproj.CoreCompileInputs.cache
+C:\Users\uuu\Desktop\DA2-REPO\DelArca-Sotto\BetterCalm\BetterCalm.Domain\obj\Debug\netcoreapp3.1\BetterCalm.Domain.dll
+C:\Users\uuu\Desktop\DA2-REPO\DelArca-Sotto\BetterCalm\BetterCalm.Domain\obj\Debug\netcoreapp3.1\BetterCalm.Domain.pdb
+C:\Users\uuu\Desktop\DA2-REPO\DelArca-Sotto\bettercalm\BetterCalm.Domain\obj\Debug\netcoreapp3.1\BetterCalm.Domain.csprojAssemblyReference.cache
